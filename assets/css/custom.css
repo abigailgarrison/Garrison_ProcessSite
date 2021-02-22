@@ -1,0 +1,36 @@
+/*********************************************
+ Main home banner customizations
+ *********************************************/
+
+
+/* If you want to add a background image to the home page banner instead of using a solid color.
+Just un comment the #banner rule below. */
+/* #banner {
+  background-image: url(../../images/pic01.jpg);
+  background-size: cover;
+  color: rgba(255, 255, 255, 0.75);
+  text-shadow: 1px 1px 15px #333;
+  text-align: center;
+  cursor: default;
+  padding: 10em 4em 9em 4em;
+} */
+
+
+
+/* If you want to change the banner button color. The following two css rules use a class called "redbtn".
+You can call the class whatever you want, but in order for it to work, it needs to be
+added to the button in the index html file as well.*/
+#banner .button.redbtn {
+  background-color: rgba(188, 46, 26, 1);
+  box-shadow: none;
+}
+
+#banner .button.redbtn:hover {
+  background-color: rgba(188, 46, 26, .8);
+}
+
+
+
+/*********************************************
+ Write your css customizations below
+ *********************************************/
