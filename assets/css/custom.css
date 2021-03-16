@@ -34,3 +34,22 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+
+ 
+ #banner {
+   background-color: #ff8857;
+ }
+
+ .post .content {
+   text-align: left;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+ }
+
+ p {
+   /* font family */
+ }
+
