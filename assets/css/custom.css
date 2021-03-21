@@ -53,3 +53,7 @@ added to the button in the index html file as well.*/
 .copyright {
   font-family: 'Poppins', sans-serif;
 }
+
+title, header, nav {
+  font-family: 'Poppins', sans-serif;
+}
