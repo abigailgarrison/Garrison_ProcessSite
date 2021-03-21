@@ -45,7 +45,7 @@ added to the button in the index html file as well.*/
    text-align: left;
  }
 
- h1, h2, h3, h4, h5, h6, p, li, td, th, title, header {
+ h1, h2, h3, h4, h5, h6, p, li, td, th, title, header, nav {
   font-family: 'Poppins', sans-serif;
  }
 
